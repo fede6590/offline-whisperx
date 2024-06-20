@@ -8,7 +8,7 @@ pre-trained models required:
 - wav2vec2-base: for alignment
     - Download link - https://download.pytorch.org/torchaudio/models/wav2vec2_fairseq_base_ls960_asr_ls960.pth
 - VAD(Voice Activity Detection) model
-    
+
 whisperx version: 3.1.3
 """
 
